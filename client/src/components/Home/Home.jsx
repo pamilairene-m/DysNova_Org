@@ -42,4 +42,8 @@ const Home = ({ isAuthenticated }) => {
   );
 };
 
+<<<<<<< HEAD
 export default Home;
+=======
+export default Home
+>>>>>>> 49b9f811736cc77d8c06e4eb63c08b5d6eded76f
